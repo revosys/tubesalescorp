@@ -83,7 +83,7 @@
         <footer class="site-footer">
             <div class="container footer-info">
                 <div class="footer-copyright">
-                    Copyrightsaaa © All Rights Reserved by <a href="#"><?php echo bloginfo('title');?></a>. </div>
+                    Copyrights © All Rights Reserved by <a href="#"><?php echo bloginfo('title');?></a>. </div>
                 <div class="text-right">
                     <div class="socials footer-social">
                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
