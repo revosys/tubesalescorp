@@ -1,0 +1,34 @@
+/*
+    Theme Name: Tube Sales Corporation
+    Author: Login Business Solutions
+    Version: Jan / 2023
+    Description: This is a custom industarial theme developed for Tube Sales Corporation, India.
+    Author URI: https://www.dewlogin.com
+    Requires at least: 6.1
+*/
+
+    .text-bg-shadow{
+        text-shadow:1px 1px 100px #fff, 1px 1px 10px #000;
+    }
+
+    .page-header .sub-heading{
+        font-size: 22px;
+        padding-top: 25px;
+        font-weight: 200;
+        text-transform: capitalize;
+        margin: 0;
+        line-height: 1.2;
+        position: relative;
+        z-index: 9;
+        text-align: center;
+        color:#fff;
+    }
+
+    /* for single page p padding */
+    .service-dtail p{
+        margin-bottom:10px;
+    }
+
+    .service-inner .service-summary .service-content{
+        padding-left:10px;
+    }
